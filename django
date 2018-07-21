@@ -1,0 +1,5 @@
+# django_nginx
+python web
+django创建项目流程
+1.django-admin.py startproject HelloWorld 
+2.python manage.py runserver 0.0.0.0:8000
